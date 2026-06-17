@@ -2,7 +2,7 @@
 
 ECE student at the University of Patras. I've spent the last 3 years building back-end systems and embedded firmware, mostly around IoT deployments in the field.
 
-Currently finishing a diploma thesis on a differentiable MPC controller leveraging RL to improve behaviour on resource-constrained hardware.
+Currently finishing a diploma thesis on a differentiable MPC controller leveraging ML to improve behaviour on resource-constrained hardware.
 
 ---
 
